@@ -183,8 +183,6 @@
   selector: '.video-lightbox'
 });
 
-
-
   /**
    * Initiate portfolio details lightbox 
    */
@@ -297,15 +295,6 @@
     }
   });
 
-  $(window).load(function(){ // This runs when the window has loaded
-    
-        var down = document.getElementById('a1'); 
-        
-            var img = document.createElement('img');
-            img.src ='https://media.geeksforgeeks.org/wp-content/uploads/20190529122828/bs21.png';
-            document.getElementById('a1').appendChild(img);
-            down.innerHTML = "Image Element Added."; 
-        
-    });
+  
 })()
 
