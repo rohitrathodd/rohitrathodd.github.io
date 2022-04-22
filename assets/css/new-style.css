@@ -4918,9 +4918,6 @@ figcaption {
     border-radius: 12px;
   }
 
-  .image-wrapper.instagram-section.hide-mobile {
-    
-  }
 
   .image-wrapper.shop {
     margin-bottom: 24px;
@@ -6335,6 +6332,11 @@ figcaption {
     -ms-grid-column-span: 1;
     grid-column-end: span 1;
   }
+}
+
+#gallery.lazyload{
+  background-image:none;
+  padding-top: 120px 0 0 0;
 }
 
 #portfolio-flters li {
