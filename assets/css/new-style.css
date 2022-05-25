@@ -1876,7 +1876,7 @@ figcaption {
   -ms-flex-item-align: stretch;
   -ms-grid-row-align: stretch;
   align-self: stretch;
-  border-radius: 50px;
+  border-radius: 100px;
   -o-object-fit: cover;
   object-fit: cover;
 }
@@ -1884,7 +1884,7 @@ figcaption {
 .image.my-story {
   display: block;
   margin-bottom: 35px;
-  border-radius: 24px;
+  border-radius: 160px;
 }
 
 .image.my-story.last {
@@ -4974,16 +4974,16 @@ figcaption {
   }
 
   .image.hero-about-wrapper {
-    border-radius: 12px;
+    border-radius: 50px;
   }
 
   .image.my-story {
     margin-bottom: 24px;
-    border-radius: 12px;
+    border-radius: 120px;
   }
 
   .image.my-story.last {
-    border-radius: 12px;
+    border-radius: 120px;
   }
 
   .image.my-story-underline {
