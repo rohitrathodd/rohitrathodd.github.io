@@ -1,7 +1,8 @@
 {
     "liveServer.settings.port": 5501,
     "workbench.preferredLightColorTheme": "Default Light+",
-    "workbench.preferredDarkColorTheme": "Default Dark+",
-    "workbench.preferredHighContrastColorTheme": "Default Dark+",
-    "workbench.preferredHighContrastLightColorTheme": "Default Light+"
+    "workbench.preferredDarkColorTheme": "Default Light+",
+    "workbench.preferredHighContrastColorTheme": "Default Light+",
+    "workbench.preferredHighContrastLightColorTheme": "Default Light+",
+    "workbench.colorTheme": "Default Light+"
 }
