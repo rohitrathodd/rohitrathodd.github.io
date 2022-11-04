@@ -1,7 +1,7 @@
 {
     "short_name": "Rohit Rathod",
-    "name": "Rohit Rathod - A Student",
-    "description":"I am Rohit Rathod, A student who loves to code, cook, draw.",
+    "name": "Rohit Rathod - Software Developer",
+    "description":"I am Rohit Rathod, A Developer who loves to code, cook, draw.",
     
     "icons": [
     {
@@ -55,7 +55,7 @@
     }
    ],
 
-    "start_url": "https://rohitrathodd.github.io/",
+    "start_url": "https://rohitrathodd.me/",
     "display": "standalone",
     "scope": "/",
     "theme_color": "#000000",
