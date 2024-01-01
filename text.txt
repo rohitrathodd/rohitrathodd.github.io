@@ -61,8 +61,6 @@ I am a Software developer from India and I have been building applications, webs
 I always try to convert a vision and an idea into meaningful and useful software products to solve a real life problem.
 Having a sharp eye for product evolution helps me prioritize tasks, iterate fast and deliver faster.
 
-A disciplined son, a loving brother and an idiot friend.
-
 -----------------------------------Skills-------------------------------------------------------------
 
 My main area of expertise currently is in front-end web development(client side of the web).
@@ -86,8 +84,16 @@ Anthony J. D'Angelo
 My projects makes use of vast variety of latest technology tools. 
 My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.
 
-https://www.brainyquote.com/
+https://www.rohitrathod.me/
 
 
 ---------------------------------------------------------------------------------------------------------------------
 
+"Building Innovative Software Solutions for a Digital World"
+"Transforming Ideas into Powerful Code: Software Development at Its Best"
+"Crafting Exceptional Software Experiences for a Connected Future"
+"Empowering Businesses through Cutting-Edge Software Development"
+"Code with Passion, Create with Purpose: Your Software Solution Expert"
+"Driving Digital Transformation through Customized Software Development"
+"Unleashing the Power of Technology: Your Trusted Software Partner"
+"Elevate Your Digital Presence with Expert Software Development"
