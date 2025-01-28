@@ -84,7 +84,7 @@ Anthony J. D'Angelo
 My projects makes use of vast variety of latest technology tools. 
 My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.
 
-https://www.rohitrathod.me/
+https://www.rohitr.com/
 
 
 ---------------------------------------------------------------------------------------------------------------------
